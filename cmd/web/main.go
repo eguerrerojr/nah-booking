@@ -9,13 +9,13 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/71anshuman/go-bookings/internal/driver"
-	"github.com/71anshuman/go-bookings/internal/helpers"
+	"github.com/eguerrerojr/nah-booking/internal/driver"
+	"github.com/eguerrerojr/nah-booking/internal/helpers"
 
-	"github.com/71anshuman/go-bookings/internal/config"
-	"github.com/71anshuman/go-bookings/internal/handlers"
-	"github.com/71anshuman/go-bookings/internal/models"
-	"github.com/71anshuman/go-bookings/internal/render"
+	"github.com/eguerrerojr/nah-booking/internal/config"
+	"github.com/eguerrerojr/nah-booking/internal/handlers"
+	"github.com/eguerrerojr/nah-booking/internal/models"
+	"github.com/eguerrerojr/nah-booking/internal/render"
 	"github.com/alexedwards/scs/v2"
 )
 
